@@ -8,7 +8,7 @@ dependencies:
   - matplotlib=2.2
   - decorator=4.4
   - h5py=2.10
-  - ligotools=0.2
+
 
 
 
